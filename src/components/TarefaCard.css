@@ -1,0 +1,32 @@
+.tarefa-card {
+  background-color: white;
+  padding: 10px 14px;
+  border-radius: 4px;
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid #ddd;
+  align-items: center;
+}
+
+.tarefa-card button {
+  background: none;
+  border: none;
+  font-size: 18px;
+  cursor: pointer;
+}
+.tarefa-card {
+  background-color: white;
+  padding: 10px 14px;
+  border-radius: 4px;
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid #ddd;
+  align-items: center;
+}
+
+.tarefa-card button {
+  background: none;
+  border: none;
+  font-size: 18px;
+  cursor: pointer;
+}
